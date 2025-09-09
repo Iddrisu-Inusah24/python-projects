@@ -1,0 +1,7 @@
+{
+  "username": "admin",
+  "password_hash": "602ec3d490909b112c4ff23df555bec2b2a7e325df36a3868dc6f55000672382",
+  "salt": "6d3c855ea80a8ba0f69d1462e5cba482",
+  "session_counter": 3,
+  "theme": "dark"
+}
