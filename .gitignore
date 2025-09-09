@@ -1,0 +1,26 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+
+# VSCode settings
+.vscode/
+
+# Large media files
+*.mp3
+*.wav
+*.mp4
+*.pdf
+
+# Build or output folders
+build/
+dist/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
